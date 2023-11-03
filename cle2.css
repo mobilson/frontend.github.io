@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+  padding: 0;
+    scroll-behavior: smooth;
+    background-image:url(kip.png)  ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-attachment: fixed;
+
+}
+.info{
+    color: rgb(245, 198, 140);
+    background-color: black;
+}

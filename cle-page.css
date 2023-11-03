@@ -8,3 +8,17 @@ body{
     background-position: 50% 0;
     background-attachment: fixed;
 }
+.fit{
+  text-decoration: none;
+  color: black;
+  background-color: #EDD2E0;
+  padding: 6vh 3vh;
+  border-radius: 10px;
+  text-align: center;
+  border: black solid 2px;
+  font-size: 0.8rem;
+  font-family: 'Agbalumo';
+  color: #253D5B;
+  -webkit-text-stroke: 0.3px black;
+  width: 50vw;
+}
